@@ -80,7 +80,8 @@ More [here](https://coinmarketcap.com/alexandria/article/optimistic-rollups-for-
 
 > - To get around this, there is scope to introduce market makers into Optimistic Rollups to provide liquidity for fast exits, where a user will pay a fee to finalise their transaction and exit the Rollup. But then this creates a two-tier system: faster settlement for those who are willing to pay for an exit, and slower settlement for those who stay on the Optimistic Rollup until a block is finalised.
 
-> **ZK**
+**ZK**
+
 > The major challenge for ZK-Rollups is integrating smart contract functionality:
 
 > - atter Labs’ ZK-Rollup implementation, zkSync, is working to make this possible so that developers can take any existing contract written in Solidity/Vyper and deploy it to zkSync with minimum modifications.
